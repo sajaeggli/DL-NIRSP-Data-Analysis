@@ -1,5 +1,5 @@
 # DL-NIRSP-Data-Analysis
-A place to share examples of how to interact with DL-NIRSP level 1 data
+A place to share examples of how to interact with DL-NIRSP Level 1 data
 
 To set up a conda environment to run this notebook do the following:
 
