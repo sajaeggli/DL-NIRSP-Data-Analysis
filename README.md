@@ -7,4 +7,4 @@ conda create -n dlnirsp_lvl1
 
 conda activate dlnirsp_lvl1
 
-conda install -c conda-forge dkist jupyter tqdm
+conda install -c conda-forge dkist jupyter
